@@ -2547,6 +2547,12 @@ Retorne APENAS JSON válido:
                 ⬇ Baixar PDF Completo
               </button>
 
+              {/* Hoobfy: criar conta para montar a loja */}
+              <a href="https://app.hoobfy.com/?utm_source=organic_guia-nichos" target="_blank" rel="noopener noreferrer"
+                style={{ width: "100%", borderRadius: 12, padding: "14px 24px", fontWeight: 800, fontSize: 15, display: "flex", alignItems: "center", justifyContent: "center", gap: 10, background: "transparent", color: "#22c55e", border: "2px solid #22c55e", textDecoration: "none", fontFamily: "inherit" }}>
+                🚀 Crie sua conta Hoobfy agora mesmo
+              </a>
+
 
             </div>
           </Card>
